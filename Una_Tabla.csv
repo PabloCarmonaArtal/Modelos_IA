@@ -1,0 +1,7 @@
+Producto_ID,Usuario,Accion,Pais,Fecha,Categoría de compra,Valoracion
+01,Enrique Gonzalez,Venta,España,30-08-2023,Deportes,5
+01,Miguel Santisteban,Compra,Italia,30-08-2023,Deportes,5
+02,Miguel Santisteban,Venta,Italia,24-09-2023,Ropa,3
+02,Guillermo González-Alloza,Compra,Francia,24-09-2023,Ropa,3
+03,Guillermo González-Alloza,Venta,Francia,31-10-2023,Videojuegos,4
+03,Enrique Gonzalez,Compra,España,31-10-2023,Videojuegos,4

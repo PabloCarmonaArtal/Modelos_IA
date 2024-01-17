@@ -1,0 +1,31 @@
+[{"Producto_ID":"01",
+"Usuario":[
+    {"Venta": "Enrique Gonzalez"},
+    {"Compra": "Miguel Santisteban"}],
+"Pais": [
+    {"Venta": "España"},
+    {"Compra": "Italia"}],
+"Fecha":"30-08-2023",
+"Categor\u00eda de compra":"Deportes",
+"Valoracion":"5"},
+
+{"Producto_ID":"02","Usuario":[
+    {"Venta": "Miguel Santisteban"},
+    {"Compra": "Guillermo Gonzalez-Alloza"}],
+"Pais": [
+    {"Venta": "Italia"},
+    {"Compra": "Fracia"}],
+"Fecha":"24-09-2023",
+"Categor\u00eda de compra":"Ropa",
+"Valoracion":"3"},
+
+{"Producto_ID":"03",
+"Usuario":[
+    {"Venta": "Guillermo Gonzalez-Alloza"},
+    {"Compra": "Enrique Gonzalez"}],
+"Pais": [
+    {"Venta": "Francia"},
+    {"Compra": "España"}],
+"Fecha":"31-10-2023",
+"Categor\u00eda de compra":"Videojuegos",
+"Valoracion":"4"}]
